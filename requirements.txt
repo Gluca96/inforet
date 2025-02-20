@@ -7,3 +7,5 @@ matplotlib
 wordcloud
 sklearn
 ipykernel
+jupyter
+ipywidgets

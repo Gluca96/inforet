@@ -5,7 +5,9 @@ nltk
 gensim
 matplotlib
 wordcloud
-sklearn
+scikit-learn
 ipykernel
 jupyter
 ipywidgets
+plotly
+nbformat

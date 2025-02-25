@@ -42,4 +42,9 @@ Before running the project, you need to download the `deepseek-r1:8b` model. Fol
 
 ## Running the project
 
-Once the above steps are completed, you can run the notebooks in the project folders *notebooks*
+Once the above steps are completed, you can run the notebooks in the project folders *demo*
+
+Even tho all the necessary files to run any notebook are provided, to reproduce the experiment the notebooks have to be runned in the following oreder:
+- data_generation
+- data_analysis
+- data_visualization

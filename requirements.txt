@@ -1,5 +1,4 @@
 torch
-vaderSentiment
 transformers
 nltk
 gensim
